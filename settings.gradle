@@ -1,0 +1,2 @@
+rootProject.name='GpsOpenWeather'
+include ':app'
